@@ -11,6 +11,8 @@ public class PizzaOrderTool  {
         Scanner input = new Scanner(System.in);
         System.out.println("Which kind of pizza do you want?");
         String pizzaResult = input.nextLine();
+        
+        System.out.println();
 
         iPizza pizza = PizzaFactory.GetPizza(pizzaResult);
         pizza.MakePizza();
