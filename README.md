@@ -6,8 +6,9 @@ The idea behind factory design pattern:
  - the client class treats contrete objects (eg. CheesePizza) as base class objects
  - the client class does not need to know the type of concrete object (due to polymorphism)
  
-Input the type of pizza you want to order.
-"cheese", "hawaiian", "combination"
+How to run:
+ - Input the type of pizza you want to order.
+ - "cheese", "hawaiian", "combination"
 
 Example:
 
