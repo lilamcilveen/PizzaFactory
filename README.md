@@ -16,8 +16,8 @@ Example:
     hawaiian
     
     Adding tomato sauce and cheese
-    Adding pineapple, back bacon, and ham.
-    Firing the oven.
+    Adding pineapple, back bacon, and ham
+    Firing the oven
 
     Hawaiian pizza is ready!
 
