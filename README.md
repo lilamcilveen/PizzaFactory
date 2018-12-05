@@ -1,4 +1,4 @@
-### SimpleFactoryDesignPattern
+### Pizza Factory
 Pizza builder, covering the intuition behind the factory design pattern.
 
 The idea behind factory design pattern:
